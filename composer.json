@@ -1,0 +1,20 @@
+{
+    "name": "home/shopping_cart",
+    "autoload": {
+        "psr-4": {
+            "Home\\ShoppingCart\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leandro Gladstone",
+            "email": "leandrogladstonephoto@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\":"app"
+        }
+    }
+}
